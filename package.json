@@ -1,0 +1,33 @@
+{
+  "name": "boss-stalker",
+  "version": "1.0.0",
+  "description": "This repo shows us, which language star's lot by my boss.",
+  "main": "index.js",
+  "devDependencies": {},
+  "bin": {
+    "boss": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/boss-statics.git"
+  },
+  "keywords": [
+    "boss",
+    "statics",
+    "star",
+    "github"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/boss-statics/issues"
+  },
+  "homepage": "https://github.com/cagataycali/boss-statics#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "github-request": "^1.2.4"
+  }
+}
