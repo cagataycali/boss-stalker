@@ -5,7 +5,7 @@
 ### Installing
 
 ```bash
-npm i -g boss-statics
+npm i -g boss-stalker
 ```
 
 
