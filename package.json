@@ -12,20 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cagataycali/boss-statics.git"
+    "url": "git+https://github.com/cagataycali/boss-stalker.git"
   },
   "keywords": [
     "boss",
-    "statics",
+    "stalker",
     "star",
     "github"
   ],
   "author": "Çağatay Çalı",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cagataycali/boss-statics/issues"
+    "url": "https://github.com/cagataycali/boss-stalker/issues"
   },
-  "homepage": "https://github.com/cagataycali/boss-statics#readme",
+  "homepage": "https://github.com/cagataycali/boss-stalker#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "github-request": "^1.2.4"
